@@ -23,7 +23,7 @@
 [![](https://visitcount.itsvg.in/api?id=Serp3n7&icon=8&color=8)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  <a href="https://www.buymeacoffee.com/sumitpatil"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=sumitpatil&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a> [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sumitpatil) 
-
+  <a href="https://www.buymeacoffee.com/sumitpatil"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=sumitpatil&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a> 
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'J3J3OEOY7');kofiwidget2.draw();</script> 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
