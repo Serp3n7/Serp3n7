@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Black hydra kernel<br><br>👯 I’m looking to collaborate on 5.15 kernel upstream for redmi note 4/4X and Samsung Galaxy A30s<br><br>🤝 I’m looking for help with 5.15 kernel upstream for redmi note 4/4X<br><br>🌱 I’m currently learning Cyber security, AI/ML<br><br>👨‍💻 All of my projects are available at https://pling.com
+🔭 I’m currently working on astraea kernel<br><br>👯 I’m looking to collaborate on 5.15 kernel upstream for redmi note 4/4X and Samsung Galaxy A30s<br><br>🤝 I’m looking for help with 5.15 kernel upstream for redmi note 4/4X<br><br>🌱 I’m currently learning Cyber security, AI/ML<br><br>👨‍💻 All of my projects are available at https://pling.com
 
 
 ## 🌐 Socials:
