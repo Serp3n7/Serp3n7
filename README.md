@@ -65,7 +65,7 @@ Developer specializing in Linux Kernel Upstreaming, Embedded Systems, and AI/ML.
 📈 GitHub Stats
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSerp3n7%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Serp3n7's GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSerp3n7%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Serp3n7's GitHub Stats" />
 
 
 
@@ -78,6 +78,15 @@ Developer specializing in Linux Kernel Upstreaming, Embedded Systems, and AI/ML.
 
 
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSerp3n7%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" />
+
+
+
+
+
+
+
+<!-- TryHackMe Banner -->
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://tryhackme-badges.s3.amazonaws.com/Serp3n7.png" alt="TryHackMe" />
 </div>
 
 ✍️ Random Dev Quote & Humor
