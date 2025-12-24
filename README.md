@@ -86,7 +86,7 @@ Developer specializing in Linux Kernel Upstreaming, Embedded Systems, and AI/ML.
 
 
 <!-- TryHackMe Banner -->
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://tryhackme-badges.s3.amazonaws.com/Serp3n7.png" alt="TryHackMe" />
+<img src="https://www.google.com/search?q=https://tryhackme-badges.s3.amazonaws.com/Serp3n7.png" alt="TryHackMe" />
 </div>
 
 ✍️ Random Dev Quote & Humor
