@@ -143,11 +143,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Serp3n7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=ff0044&border_color=00ff00&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Serp3n7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Serp3n7&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ff00&ring=ff0044&fire=ff6b00&currStreakLabel=00ff00&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=Serp3n7&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Serp3n7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00ff00&text_color=ffffff&border_color=00ff00)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Serp3n7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -177,7 +177,7 @@
 
 ### `root access not required. curiosity mandatory.` 🐍
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=Serp3n7&icon=6&color=3)
+![Visitor Count](https://komarev.com/ghpvc/?username=Serp3n7&color=green&style=flat-square)
 
 </div>
 
