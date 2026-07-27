@@ -1,277 +1,218 @@
-<h1 align="center">
-  <pre style="font-family: 'JetBrains Mono', 'Fira Code', monospace; color: #00FF00; background: #0D1117; padding: 20px; border: 2px solid #00FF00; border-radius: 8px; overflow-x: auto;">
-   ███████╗██╗  ██╗███████╗██╗  ██╗ ██████╗ ███╗   ██╗
-   ██╔════╝██║  ██║██╔════╝██║ ██╔╝██╔═══██╗████╗  ██║
-   ███████╗███████║█████╗  █████╔╝ ██║   ██║██╔██╗ ██║
-   ╚════██║██╔══██║██╔══╝  ██╔██╗ ██║   ██║██║╚██╗██║
-   ███████║██║  ██║███████╗██║  ██╗╚██████╔╝██║ ╚████║
-   ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
-  </pre>
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Spectrum_Security-00FF00?style=for-the-badge&logo=hackerone&logoColor=0D1117" />
-  <img src="https://img.shields.io/badge/Offensive_+-FF0044?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Defensive_+-00BFFF?style=for-the-badge&logo=microsoftsentinel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kernel_Exploitation-FF6B00?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
+# ░█▀▀░█▀█░█▀▄░█▀▀░█▀█░█▀▀░█▀▀░█▀▄░█▀█░█▀▀
+# ░█▀▀░█░█░█░█░█▀▀░█░█░█▀▀░█░░░█▀▄░█▀█░█░░
+# ░▀▀▀░▀░▀░▀▀░░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀░▀░▀░▀░▀▀▀
 
-<p align="center">
-  <a href="https://tryhackme.com/p/Serp3n7">
-    <img src="https://img.shields.io/badge/TryHackMe-Active-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  </a>
-  <a href="https://cyber.comolho.com/researcher/profile/sumitbide/">
-    <img src="https://img.shields.io/badge/Com_Olho-Security_Researcher-00599C?style=for-the-badge&logo=bugcrowd&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sumit-bide-a52241293/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sumit_Bide-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Serp3n7">
-    <img src="https://img.shields.io/badge/GitHub-Serp3n7-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://t.me/Serp3n7">
-    <img src="https://img.shields.io/badge/Telegram-@Serp3n7-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/_.theycallmebide._/">
-    <img src="https://img.shields.io/badge/Instagram-@_.theycallmebide._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+### `Sumit Bide` · `Serp3n7` · `Security Researcher` · `Kernel Developer`
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Serp3n7-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Serp3n7)
+[![Com Olho](https://img.shields.io/badge/Com_Olho-Researcher-00599C?style=flat-square&logo=bugcrowd&logoColor=white)](https://cyber.comolho.com/researcher/profile/sumitbide/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumit_Bide-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-bide-a52241293/)
+[![GitHub](https://img.shields.io/badge/GitHub-Serp3n7-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Serp3n7)
+[![Telegram](https://img.shields.io/badge/Telegram-@Serp3n7-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Serp3n7)
+[![Cisco](https://img.shields.io/badge/Cisco-NetAcad_Certified-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.netacad.com/)
+
+</div>
 
 ---
 
-### `$ whoami`
+## █▀▀ █▀█ █▀▄ █▀▀ █▀█ █▀▀ █▀▄ █▀█ █▀▀
+## █▀▀ █░█ █░█ █▀▀ █░█ █░░ █▀▄ █▀█ █░░
+## ▀▀▀ ▀░▀ ▀▀░ ▀▀▀ ▀░▀ ▀▀▀ ▀░▀ ▀░▀ ▀▀▀
 
-```bash
-┌──(serp3n7@kali)-[~/profile]
-└─$ cat profile.txt
-______________________________________________________________________________
-  Handle        : Serp3n7 (Sumit Bide)
-  Role          : Security Analyst • Penetration Tester • Kernel Developer
-  Focus         : Full-Spectrum Cybersecurity
-                  ├─ Offensive  : SOC Operations, Network Recon, Threat Detection
-                  ├─            Web App Vulnerability Testing, Wireless Hacking
-                  ├─ Defensive  : SOC Analysis, Threat Hunting, Log Analysis
-                  ├─            SIEM (Microsoft Sentinel), Infrastructure Hardening
-                  └─ Kernel/Emb : Linux/Android Kernel Exploitation, NetHunter Dev
-                                            Driver Security, Kernel Hardening
-  Arsenal       : Nmap, Burp Suite, Wireshark, Metasploit, Microsoft Sentinel
-                  Aircrack-ng, Volatility, Ghidra, Cobalt Strike, Nuclei
-  Open Source   : Kali NetHunter Kernel Contributor (Realtek WiFi Drivers)
-                  Astraea Kernel Maintainer
-                  5.15 Kernel Upstream (Redmi Note 4/4X, Samsung Galaxy A30s)
-  Education     : B.Tech Cybersecurity
-                  Cisco Introduction to Cybersecurity ✓
-                  TryHackMe Active Practitioner
-  Location      : Mumbai, Maharashtra 🇮🇳
-______________________________________________________________________________
+```c
+struct security_profile {
+    char *handle;           // "Serp3n7"
+    char *real_name;        // "Sumit Bide"
+    char *role;             // "Security Analyst • Penetration Tester • Kernel Developer"
+    char *specialization;   // "Full-Spectrum Cybersecurity"
+    char *location;         // "Mumbai, Maharashtra 🇮🇳"
+    char *education;        // "B.Tech Cybersecurity"
+    char **certifications;  // ["Cisco Intro to Cybersecurity", "TryHackMe Active", "Com Olho Researcher"]
+    char **focus_areas;     // ["Offensive Security", "Defensive/SOC", "Kernel/Embedded Security"]
+    char **open_source;     // ["Kali NetHunter Kernel", "Astraea Kernel", "Linux 5.15 Upstreaming"]
+    char **arsenal;         // ["Nmap", "Burp Suite", "Wireshark", "Metasploit", "Sentinel", "Aircrack-ng", "Volatility", "Ghidra"]
+};
 ```
 
 ---
 
-### `$ ls -la expertise/`
+## ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+## █ OFFENSIVE SECURITY  █  RED TEAM • PENETRATION TESTING • EXPLOIT DEV
+## ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 
-```
-total 3
-drwxr-xr-x 3 serp3n7 serp3n7 4096 Jul 27 00:00 .
-drwxr-xr-x 1 serp3n7 serp3n7 4096 Jul 27 00:00 ..
--rwxr-xr-x 1 serp3n7 serp3n7 2048 Jul 27 00:00 offensive_security*
--rwxr-xr-x 1 serp3n7 serp3n7 2048 Jul 27 00:00 defensive_security*
--rwxr-xr-x 1 serp3n7 serp3n7 2048 Jul 27 00:00 kernel_embedded_security*
-```
-
-#### 🔴 `offensive_security` — Red Team / Pentesting
-| Domain | Skills & Tools |
-|--------|----------------|
-| **Network Recon** | Nmap, Masscan, Amass, Subfinder, Shodan, RustScan |
-| **Web Application** | Burp Suite Pro, OWASP ZAP, SQLMap, ffuf, Nuclei, Nikto |
-| **Exploitation** | Metasploit Framework, Cobalt Strike, Custom Exploits, Shellcode Dev |
-| **Wireless / Mobile** | Aircrack-ng, Kismet, Wifite, Bettercap, **Kali NetHunter**, RTL8188/8812/8814 Drivers |
-| **Post-Exploitation** | Mimikatz, BloodHound, CrackMapExec, Impacket, LinPEAS/WinPEAS |
-| **CTF / Challenges** | TryHackMe, HackTheBox, PicoCTF — Web, Pwn, Crypto, Forensics, Rev |
-
-#### 🔵 `defensive_security` — Blue Team / SOC
-| Domain | Skills & Tools |
-|--------|----------------|
-| **SOC Operations** | Alert Triage, Log Analysis, Incident Response, Threat Hunting |
-| **SIEM / Detection** | **Microsoft Sentinel**, Splunk, Elastic Stack, Sigma Rules, YARA |
-| **Network Defense** | Wireshark/Tshark, Zeek (Bro), Suricata, Snort, PCAP Analysis |
-| **Endpoint / Hardening** | Sysmon, OSQuery, Auditd, AppArmor/SELinux, Kernel Hardening |
-| **Threat Intel** | MISP, ATT&CK Mapping, IOC Enrichment, Malware Analysis (Static/Dynamic) |
-| **Vulnerability Mgmt** | Nessus, OpenVAS, Nuclei Templates, Patch Management, CVE Tracking |
-
-#### 🟠 `kernel_embedded_security` — Low-Level / Hardware
-| Domain | Skills & Tools |
-|--------|----------------|
-| **Linux Kernel** | Kernel Exploitation (UAF, Race, Overflow), KGDB, Kprobes, Ftrace, Perf |
-| **Android Internals** | Binder IPC, SELinux Policy, Verified Boot, GKI, Vendor Partitions |
-| **NetHunter Kernel** | Wireless Injection Drivers (RTL8188EUS/FU, RTL8192EU/FU, RTL8812/14AU) |
-| **Embedded/ARM** | ARM/ARM64 Assembly, QEMU User/System Mode, JTAG/UART, Firmware Analysis |
-| **Driver Security** | Kernel Module Development, ioctl/mmap Security, DMA Attacks, IOMMU |
-| **Boot Security** | OpenCore, Secure Boot, TPM 2.0, Measured Boot, Kernel Lockdown Mode |
+| **Domain** | **Proficiency** | **Tools & Frameworks** |
+|:---|:---:|:---|
+| **Network Reconnaissance** | ████████░░ 80% | `nmap` `masscan` `rustscan` `amass` `subfinder` `shodan` `dnsrecon` `theharvester` |
+| **Web Application Security** | █████████░ 90% | `burp suite pro` `owasp zap` `sqlmap` `ffuf` `nuclei` `dalfox` `xsser` `commix` `graphql-voyager` |
+| **Exploitation & C2** | ████████░░ 80% | `metasploit` `cobalt strike` `sliver` `custom exploits` `shellcode (nasm/msfvenom)` `rop` `heap grooming` |
+| **Wireless & Mobile** | ██████████ 95% | `aircrack-ng` `kismet` `wifite` `bettercap` `hcxtools` `pixiewps` `kali nethunter` `rtl8188/8812/8814 drivers` `mobsf` `frida` `objection` |
+| **Post-Exploitation** | ███████░░░ 70% | `mimikatz` `bloodhound` `crackmapexec` `impacket` `linpeas/winpeas` `lateral movement` `persistence` |
+| **CTF / Challenge Platforms** | █████████░ 90% | `tryhackme` `hackthebox` `picoctf` — Web, Pwn, Crypto, Forensics, Reverse Engineering |
 
 ---
 
-### `$ cat certifications.txt`
+## ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+## █ DEFENSIVE SECURITY  █  BLUE TEAM • SOC OPERATIONS • THREAT HUNTING
+## ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 
-```
-┌────────────────────────────────────────────────────────────────────────────┐
-│  CERTIFICATIONS & PLATFORMS                                                │
-├────────────────────────────────────────────────────────────────────────────┤
-│  ✅  Cisco Introduction to Cybersecurity              │ Cisco NetAcad      │
-│  🟢  TryHackMe  —  Active Practitioner                │ tryhackme.com/p/   │
-│       ├─ Complete Beginner Path                       │   Serp3n7          │
-│       ├─ Pre-Security Learning Path                   │                    │
-│       └─ 50+ Rooms Completed (Web, Net, Linux, Rev)   │                    │
-│  🔵  Com Olho Security Researcher                     │ cyber.comolho.com  │
-│       ├─ Web Application Vulnerability Testing        │                    │
-│       ├─ Network Analysis & Reconnaissance            │                    │
-│       └─ Wireless Hacking & Pentesting Frameworks     │                    │
-│  ⏳  eJPTv2  —  In Progress                           │ INE / eLearnSecurity│
-│  ⏳  OSCP  —  Planned (2025)                          │ OffSec             │
-└────────────────────────────────────────────────────────────────────────────┘
-```
+| **Domain** | **Proficiency** | **Tools & Frameworks** |
+|:---|:---:|:---|
+| **SOC Operations** | ████████░░ 80% | Alert Triage · Log Analysis · Incident Response · Threat Hunting · Shift Handoff · Runbook Execution |
+| **SIEM & Detection Engineering** | ████████░░ 80% | `microsoft sentinel` `kql` `splunk` `spl` `elastic stack` `sigma rules` `yara` `mitre att&ck mapping` |
+| **Network Security Monitoring** | ████████░░ 80% | `wireshark/tshark` `zeek (bro)` `suricata` `snort` `pcap analysis` `traffic baseline` `anomaly detection` |
+| **Endpoint Hardening** | ███████░░░ 70% | `sysmon` `swiftonsecurity` `osquery` `auditd` `apparmor/selinux` `kernel lockdown` `falco` `ebpf` |
+| **Threat Intelligence** | ██████░░░░ 60% | `misp` `ioc enrichment` `abuse.ch` `alienvault otx` `malware analysis (static/dynamic)` `ttp attribution` |
+| **Vulnerability Management** | ███████░░░ 70% | `nessus` `openvas` `nuclei templates` `patch management` `cve tracking` `risk scoring` `remediation tracking` |
 
 ---
 
-### `$ cat arsenal.conf`
+## ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+## █ KERNEL / EMBEDDED SECURITY  █  LOW-LEVEL • HARDWARE • ANDROID INTERNALS
+## ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+| **Domain** | **Proficiency** | **Tools & Frameworks** |
+|:---|:---:|:---|
+| **Linux Kernel Exploitation** | █████████░ 90% | UAF · Race Conditions · Heap Overflow · Type Confusion · `kgdb` `kprobes` `ftrace` `perf` `systemtap` `bpftrace` |
+| **Android Internals & Security** | ██████████ 95% | Binder IPC · SELinux Policy · Verified Boot · GKI · Vendor Partitions · `magisk` `edxposed` `frida` `objection` |
+| **Kali NetHunter Kernel Dev** | ██████████ 100% | Wireless Injection Drivers · HID/USB Gadget · Rootless Subsystem · `rtl8188eus/fu` `rtl8192eu/fu` `rtl8812/14au` |
+| **ARM/ARM64 Embedded Security** | ████████░░ 80% | ARM Assembly · QEMU User/System · JTAG/UART · Firmware Analysis · `binwalk` `ghidra` `ida` `radare2` |
+| **Kernel Driver Security** | ████████░░ 80% | ioctl/mmap Auditing · DMA Attacks · IOMMU · `sparse` `checkpatch.pl` `kasan` `kcsan` `kmemleak` `lockdep` |
+| **Boot Security & Firmware** | ███████░░░ 70% | OpenCore · Secure Boot · TPM 2.0 · Measured Boot · ACPI/ASL · SMBIOS · `efi` `uefi` `nvram` |
+
+---
+
+## ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+## █ CERTIFICATIONS & PLATFORMS
+## ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 
 ```
-┌────────────────────┬──────────────────────────────────────────────────────────────┐
-│ CATEGORY           │ TOOLS / FRAMEWORKS                                           │
-├────────────────────┼──────────────────────────────────────────────────────────────┤
-│ RECON              │ nmap • masscan • amass • subfinder • shodan • rustscan       │
-│                    │ dnsrecon • theharvester • recon-ng • github-dorks            │
-├────────────────────┼──────────────────────────────────────────────────────────────┤
-│ EXPLOITATION       │ metasploit • cobalt strike • sliver • custom exploits        │
-│                    │ shellcode (nasm/msfvenom) •ROP gadgets • heap grooming       │
-├────────────────────┼──────────────────────────────────────────────────────────────┤
-│ WEB APPLICATION    │ burp suite pro • owasp zap • sqlmap • ffuf • nuclei          │
-│                    │ dalfox • xsser • commix • nosqlmap • graphql-voyager         │
-├────────────────────┼──────────────────────────────────────────────────────────────┤
-│ WIRELESS / MOBILE  │ aircrack-ng • kismet • wifite • bettercap • hcxtools         │
-│                    │ kali nethunter • rtl8188/8812/8814 drivers • pixiewps        │
-│                    │ mobsf • frida • objection • adb • magisk • edxposed          │
-├────────────────────┼──────────────────────────────────────────────────────────────┤
-│ FORENSICS / RE     │ volatility3 • autopsy • wireshark/tshark • strings • binwalk │
-│                    │ ghidra • ida free • radare2 • gdb/gef • pwndbg • qemu        │
-│                    │ frida • objection • unidroid • jadx • apktool                │
-├────────────────────┼──────────────────────────────────────────────────────────────┤
-│ SIEM / DEFENSE     │ microsoft sentinel • splunk • elastic • sigma • yara         │
-│                    │ sysmon • osquery • auditd • apparmor • selinux • falco       │
-│                    │ zeek • suricata • snort • crowdsec • wazuh • lime            │
-├────────────────────┼──────────────────────────────────────────────────────────────┤
-│ KERNEL / LOW-LEVEL │ kgdb • kprobes • ftrace • perf • systemtap • bpftrace        │
-│                    │ qemu (arm/arm64) • gdb-multiarch • checkpatch.pl • sparse    │
-│                    │ kasan • kcsan • kmemleak • lockdep • syzkaller • kcov        │
-└────────────────────┴──────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│  ✅  CISCO INTRODUCTION TO CYBERSECURITY                    │ Cisco NetAcad      │
+│  ✅  TRYHACKME — ACTIVE PRACTITIONER                        │ tryhackme.com/p/Serp3n7│
+│       ├─ Complete Beginner Path                             │ 50+ Rooms Completed  │
+│       ├─ Pre-Security Learning Path                         │ Web · Network · Linux · Rev │
+│       └─ Cyber Defense / SOC Level 1 Paths                  │ In Progress         │
+│  ✅  COM OLHO SECURITY RESEARCHER                           │ cyber.comolho.com  │
+│       ├─ Web Application Vulnerability Testing              │                      │
+│       ├─ Network Analysis & Reconnaissance                  │                      │
+│       └─ Wireless Hacking & Pentesting Frameworks           │                      │
+│  ⏳  eJPTv2 — IN PROGRESS                                   │ INE / eLearnSecurity │
+│  📅  OSCP — PLANNED (2025)                                  │ OffSec             │
+│  📅  OSWE / OSED — ROADMAP                                  │ OffSec             │
+└─────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-### `$ ls -la projects/`
+## ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+## █ FEATURED PROJECTS & RESEARCH
+## ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 
-```
-total 6
-drwxr-xr-x 6 serp3n7 serp3n7 4096 Jul 27 00:00 .
-drwxr-xr-x 1 serp3n7 serp3n7 4096 Jul 27 00:00 ..
-drwxr-xr-x 2 serp3n7 serp3n7 4096 Jul 27 00:00 nethunter-drivers
-drwxr-xr-x 2 serp3n7 serp3n7 4096 Jul 27 00:00 astraea-kernel
-drwxr-xr-x 2 serp3n7 serp3n7 4096 Jul 27 00:00 kernel-upstream
-drwxr-xr-x 2 serp3n7 serp3n7 4096 Jul 27 00:00 soc-homelab
-drwxr-xr-x 2 serp3n7 serp3n7 4096 Jul 27 00:00 boot-security
-```
+### 🔬 `Kali NetHunter Wireless Driver Suite` 
+**[`github.com/Serp3n7/Added-RTL8188EUS-...-drivers-as-module-for-NetHunter`](https://github.com/Serp3n7/Added-RTL8188EUS-RTL8188FU-RTL8192EU-RTL8192FU-RTL8812AU-RTL8814AU-drivers-as-module-for-NetHunter)**
 
-#### 📁 `nethunter-drivers/` — **Kali NetHunter Kernel Contributor**
-> **Realtek Wireless Driver Suite for Mobile Pentesting**
-- **RTL8188EUS / RTL8188FU** — 802.11n USB, Monitor Mode + Injection
-- **RTL8192EU / RTL8192FU** — 802.11n 2T2R, AP/Monitor/Injection
-- **RTL8812AU / RTL8814AU** — 802.11ac Wave 2, MU-MIMO, Full NetHunter Support
-- **Impact**: Enables wardriving, WPA/2/3 cracking, Evil Twin, MITM on Android devices
-- **Repo**: `github.com/Serp3n7/Added-RTL8188EUS-RTL8188FU-...-drivers-as-module-for-NetHunter`
-
-#### 📁 `astraea-kernel/` — **Custom Hardened Kernel (Poco X3 Pro / Vayu)**
-> **Security-Focused NetHunter Kernel Source**
-- Base: Android 13/14, Linux 5.15.x LTS, GKI Compatible
-- Hardening: `CONFIG_HARDENED_USERCOPY=y`, `CONFIG_FORTIFY_SOURCE=y`, `CONFIG_KASAN=y`
-- NetHunter: Wireless injection patched, HID/USB gadget support, Rootless subsystem
-- Performance: CPU governor tuning, scheduler optimization, thermal management
-- **Repo**: `github.com/Serp3n7/Astraea-kernel-vayu`
-
-#### 📁 `kernel-upstream/` — **Linux 5.15 LTS Upstreaming**
-> **Device Tree & Driver Mainlining for Legacy Devices**
-- **Redmi Note 4/4X (mido)**: DT bindings, pinctrl, regulator, thermal, GPU (Adreno 506)
-- **Samsung Galaxy A30s (a30s)**: Exynos 7904, UFS, Display (MDSS), Camera (CSIS), Audio
-- **Focus**: Security patches backport, CVE mitigation, SELinux policy refinement
-- **Repos**: `kernel_xiaomi_mido` (Athena Kernel), device trees for both targets
-
-#### 📁 `soc-homelab/` — **Detection Engineering Lab**
-> **Multi-Sensor SOC Simulation Environment**
-- **SIEM**: Microsoft Sentinel (KQL), Splunk Free, Elastic Stack (Fleet + Agents)
-- **Sensors**: Suricata IDS, Zeek NSM, Sysmon (SwiftOnSecurity config), Auditd
-- **Detection**: 50+ Sigma Rules (mapped to MITRE ATT&CK), Custom KQL/SPL Queries
-- **Threat Intel**: MISP instance, Abuse.ch feeds, AlienVault OTX, Custom IOC Enrichment
-- **Automation**: SOAR playbooks (Sentinel Logic Apps), Alert enrichment, Auto-containment
-
-#### 📁 `boot-security/` — **Low-Level Boot Integrity**
-> **Hackintosh / OpenCore Security Research**
-- **Dell Optiplex 3020 / Latitude 5300**: OpenCore EFI, Secure Boot, TPM 2.0
-- **Focus**: Kernel extension signing, SIP/AMFI bypass analysis, Bootloader attestation
-- **Skills**: ACPI/ASL patching, SMBIOS spoofing, NVRAM security, Vault/Keychain analysis
-- **Repos**: `Optiplex-3020-Hackintosh-Sequoia`, `Dell-Latitude-5300-2-in-1-Sonoma`
+> **Realtek 802.11n/ac USB Wireless Drivers for Mobile Pentesting**
+> - **Chipsets**: RTL8188EUS/FU, RTL8192EU/FU, RTL8812AU, RTL8814AU
+> - **Capabilities**: Monitor Mode · Frame Injection · AP Mode · MU-MIMO (8814AU)
+> - **Impact**: Enables Wardriving, WPA/2/3 Cracking, Evil Twin, MITM on Android/NetHunter
+> - **Kernel**: 4.19 → 6.x LTS, DKMS-ready, NetHunter CI integrated
 
 ---
 
-### `$ git log --oneline --graph --all`
+### 🛡️ `Astraea Kernel` — Security-Hardened NetHunter Kernel (Poco X3 Pro / Vayu)
+**[`github.com/Serp3n7/Astraea-kernel-vayu`](https://github.com/Serp3n7/Astraea-kernel-vayu)**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Serp3n7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=FF0044&border_color=00FF00" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Serp3n7&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF00&ring=FF0044&fire=FF6B00&currStreakLabel=00FF00" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serp3n7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&border_color=00FF00" alt="Top Languages" />
-</p>
-
----
-
-### `$ fortune -s security`
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Security Quote" />
-</p>
+> **Custom Android Kernel with Security-First Architecture**
+> - **Base**: Linux 5.15 LTS · Android 13/14 · GKI Compatible
+> - **Hardening**: `CONFIG_HARDENED_USERCOPY` `CONFIG_FORTIFY_SOURCE` `CONFIG_KASAN` `CONFIG_KCSAN`
+> - **NetHunter**: Wireless Injection Patched · HID/USB Gadget · Rootless Subsystem · Custom Charger Control
+> - **Performance**: EAS Scheduler Tuning · CPU Governor Optimization · Thermal Management · ZRAM/LZ4
+> - **Security**: SELinux Enforcing · Kernel Lockdown · Module Signing · Verified Boot Integration
 
 ---
 
-### `$ nc -lvnp connect.ports`
+### 🌱 `Linux 5.15 LTS Upstreaming` — Device Mainlining
+**[`github.com/Serp3n7/kernel_xiaomi_mido`](https://github.com/Serp3n7/kernel_xiaomi_mido)** · **[`github.com/Serp3n7/devices`](https://github.com/Serp3n7/devices)**
 
-```bash
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  LISTENING ON:                                                              │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  🔗  LinkedIn      │ https://linkedin.com/in/sumit-bide-a52241293           │
-│  🎯  TryHackMe     │ https://tryhackme.com/p/Serp3n7                        │
-│  🐛  Com Olho      │ https://cyber.comolho.com/researcher/profile/sumitbide/│
-│  💻  GitHub        │ https://github.com/Serp3n7                             │
-│  📱  Telegram      │ https://t.me/Serp3n7                                   │
-│  📷  Instagram     │ https://instagram.com/_.theycallmebide._               │
-│  ☕  Buy Me Coffee  │ https://buymeacoffee.com/sumitpatil                    │
-│  ❤️  Ko-fi         │ https://ko-fi.com/sumitpatil                           │
-│  📦  Pling         │ https://pling.com/u/serp3n7                            │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+> **Mainline Kernel Support for Legacy Devices**
+> - **Redmi Note 4/4X (mido)**: DT Bindings · Pinctrl · Regulator · Thermal · GPU (Adreno 506) · CVE Backports
+> - **Samsung Galaxy A30s (a30s)**: Exynos 7904 · UFS · MDSS Display · CSIS Camera · Audio · SELinux Policy
+> - **Focus**: Security Patch Backporting · Upstream-first Development · Long-term Maintainability
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MADE_WITH-%E2%9D%A4-FF0044?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/POWERED_BY-KALI_LINUX-212C42?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/SHELL-ZSH_%7C_BASH-00FF00?style=for-the-badge&logo=gnubash&logoColor=0D1117" />
-  <img src="https://img.shields.io/badge/EDITOR-NEOVIM-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
-</p>
+### 🏠 `SOC Home Lab` — Detection Engineering Environment
+> **Multi-Sensor SOC Simulation for Threat Detection R&D**
+> - **SIEM Stack**: Microsoft Sentinel (KQL) · Splunk Free · Elastic Stack (Fleet + Elastic Agent)
+> - **Network Sensors**: Suricata IDS/IPS · Zeek NSM · PCAP Pipeline · TLS Decryption
+> - **Endpoint Telemetry**: Sysmon (SwiftOnSecurity) · OSQuery · Auditd · Windows Event Forwarding
+> - **Detection Code**: 50+ Sigma Rules (MITRE ATT&CK Mapped) · Custom KQL/SPL Queries · YARA Rules
+> - **Threat Intel**: MISP Instance · Abuse.ch Feeds · AlienVault OTX · Custom IOC Enrichment API
+> - **Automation**: Sentinel Logic Apps (SOAR) · Alert Enrichment · Auto-Containment Playbooks
 
-<p align="center">
-  <sub>Root access not required. Curiosity mandatory. 🐍</sub>
-</p>
+---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Serp3n7&icon=6&color=3" alt="Visitor Count" />
-</p>
+### 🔐 `Boot Security Research` — Hackintosh / OpenCore
+**[`github.com/Serp3n7/Optiplex-3020-Hackintosh-Sequoia`](https://github.com/Serp3n7/Optiplex-3020-Hackintosh-Sequoia)** · **[`github.com/Serp3n7/Dell-Latitude-5300-2-in-1-Sonoma`](https://github.com/Serp3n7/Dell-Latitude-5300-2-in-1-Sonoma)**
+
+> **Low-Level Boot Integrity & Firmware Security**
+> - **Platforms**: Dell Optiplex 3020 (Haswell) · Latitude 5300 2-in-1 (Whiskey Lake)
+> - **Focus**: OpenCore EFI · Secure Boot · TPM 2.0 Attestation · Kernel Extension Signing
+> - **Research**: SIP/AMFI Bypass Analysis · Bootloader Attestation · NVRAM Security · Vault/Keychain
+> - **Skills**: ACPI/ASL Patching · SMBIOS Spoofing · UEFI Variable Manipulation · EFISTUB
+
+---
+
+## ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+## █ GITHUB TELEMETRY
+## ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Serp3n7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=ff0044&border_color=00ff00&show_icons=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Serp3n7&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ff00&ring=ff0044&fire=ff6b00&currStreakLabel=00ff00&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Serp3n7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00ff00&text_color=ffffff&border_color=00ff00)
+
+</div>
+
+---
+
+## ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+## █ CONNECTION ENDPOINTS
+## ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+<div align="center">
+
+| **Protocol** | **Endpoint** | **Status** |
+|:---:|:---|:---:|
+| `HTTPS` | `linkedin.com/in/sumit-bide-a52241293` | 🟢 LISTENING |
+| `HTTPS` | `tryhackme.com/p/Serp3n7` | 🟢 LISTENING |
+| `HTTPS` | `cyber.comolho.com/researcher/profile/sumitbide/` | 🟢 LISTENING |
+| `HTTPS` | `github.com/Serp3n7` | 🟢 LISTENING |
+| `TCP` | `t.me/Serp3n7` | 🟢 LISTENING |
+| `HTTPS` | `instagram.com/_.theycallmebide._` | 🟢 LISTENING |
+| `HTTPS` | `buymeacoffee.com/sumitpatil` | 🟢 LISTENING |
+| `HTTPS` | `ko-fi.com/sumitpatil` | 🟢 LISTENING |
+| `HTTPS` | `pling.com/u/serp3n7` | 🟢 LISTENING |
+
+</div>
+
+---
+
+<div align="center">
+
+### `root access not required. curiosity mandatory.` 🐍
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=Serp3n7&icon=6&color=3)
+
+</div>
+
+<div align="center">
+
+**Built with** · `Kali Linux` · `Neovim` · `Zsh` · `Ghidra` · `Metasploit` · `Linux Kernel` · `C/ASM` · `Python` · `Go`
+
+</div>
