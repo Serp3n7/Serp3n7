@@ -1,8 +1,11 @@
 <div align="center">
 
-# ░█▀▀░█▀█░█▀▄░█▀▀░█▀█░█▀▀░█▀▀░█▀▄░█▀█░█▀▀
-# ░█▀▀░█░█░█░█░█▀▀░█░█░█▀▀░█░░░█▀▄░█▀█░█░░
-# ░▀▀▀░▀░▀░▀▀░░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀░▀░▀░▀░▀▀▀
+<h1 align="center" style="font-family: 'JetBrains Mono', 'Fira Code', monospace; color: #00FF00; letter-spacing: 3px; margin-bottom: 0;">
+  SERP3N7
+</h1>
+<h3 align="center" style="font-family: 'JetBrains Mono', 'Fira Code', monospace; color: #8B949E; font-weight: 400; margin-top: 4px;">
+  Security Researcher · Kernel Developer · Full-Spectrum Cybersecurity
+</h3>
 
 ### `Sumit Bide` · `Serp3n7` · `Security Researcher` · `Kernel Developer`
 
@@ -17,30 +20,9 @@
 
 ---
 
-## █▀▀ █▀█ █▀▄ █▀▀ █▀█ █▀▀ █▀▄ █▀█ █▀▀
-## █▀▀ █░█ █░█ █▀▀ █░█ █░░ █▀▄ █▀█ █░░
-## ▀▀▀ ▀░▀ ▀▀░ ▀▀▀ ▀░▀ ▀▀▀ ▀░▀ ▀░▀ ▀▀▀
-
-```c
-struct security_profile {
-    char *handle;           // "Serp3n7"
-    char *real_name;        // "Sumit Bide"
-    char *role;             // "Security Analyst • Penetration Tester • Kernel Developer"
-    char *specialization;   // "Full-Spectrum Cybersecurity"
-    char *location;         // "Mumbai, Maharashtra 🇮🇳"
-    char *education;        // "B.Tech Cybersecurity"
-    char **certifications;  // ["Cisco Intro to Cybersecurity", "TryHackMe Active", "Com Olho Researcher"]
-    char **focus_areas;     // ["Offensive Security", "Defensive/SOC", "Kernel/Embedded Security"]
-    char **open_source;     // ["Kali NetHunter Kernel", "Astraea Kernel", "Linux 5.15 Upstreaming"]
-    char **arsenal;         // ["Nmap", "Burp Suite", "Wireshark", "Metasploit", "Sentinel", "Aircrack-ng", "Volatility", "Ghidra"]
-};
-```
+### >>> OFFENSIVE SECURITY — RED TEAM • PENETRATION TESTING • EXPLOIT DEV
 
 ---
-
-## ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-## █ OFFENSIVE SECURITY  █  RED TEAM • PENETRATION TESTING • EXPLOIT DEV
-## ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 
 | **Domain** | **Proficiency** | **Tools & Frameworks** |
 |:---|:---:|:---|
@@ -53,9 +35,7 @@ struct security_profile {
 
 ---
 
-## ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-## █ DEFENSIVE SECURITY  █  BLUE TEAM • SOC OPERATIONS • THREAT HUNTING
-## ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+### >>> DEFENSIVE SECURITY — BLUE TEAM • SOC OPERATIONS • THREAT HUNTING
 
 | **Domain** | **Proficiency** | **Tools & Frameworks** |
 |:---|:---:|:---|
@@ -68,9 +48,7 @@ struct security_profile {
 
 ---
 
-## ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-## █ KERNEL / EMBEDDED SECURITY  █  LOW-LEVEL • HARDWARE • ANDROID INTERNALS
-## ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+### >>> KERNEL / EMBEDDED SECURITY — LOW-LEVEL • HARDWARE • ANDROID INTERNALS
 
 | **Domain** | **Proficiency** | **Tools & Frameworks** |
 |:---|:---:|:---|
@@ -83,9 +61,7 @@ struct security_profile {
 
 ---
 
-## ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-## █ CERTIFICATIONS & PLATFORMS
-## ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+### >>> CERTIFICATIONS & PLATFORMS
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────┐
@@ -106,9 +82,7 @@ struct security_profile {
 
 ---
 
-## ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-## █ FEATURED PROJECTS & RESEARCH
-## ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+### >>> FEATURED PROJECTS & RESEARCH
 
 ### 🔬 `Kali NetHunter Wireless Driver Suite` 
 **[`github.com/Serp3n7/Added-RTL8188EUS-...-drivers-as-module-for-NetHunter`](https://github.com/Serp3n7/Added-RTL8188EUS-RTL8188FU-RTL8192EU-RTL8192FU-RTL8812AU-RTL8814AU-drivers-as-module-for-NetHunter)**
@@ -165,9 +139,7 @@ struct security_profile {
 
 ---
 
-## ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-## █ GITHUB TELEMETRY
-## ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+### >>> GITHUB TELEMETRY
 
 <div align="center">
 
@@ -181,9 +153,7 @@ struct security_profile {
 
 ---
 
-## ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-## █ CONNECTION ENDPOINTS
-## ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+### >>> CONNECTION ENDPOINTS
 
 <div align="center">
 
